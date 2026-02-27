@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """
-for testing
 scripts/sanity.py — Environment sanity check
 
 Prints Python version, platform, current working directory,
@@ -22,7 +21,6 @@ PACKAGES = [
     "pytest",
     "python-dotenv",
 ]
-
 
 print(f"Python version:  {sys.version}")
 print(f"Platform:        {platform.platform()}")
