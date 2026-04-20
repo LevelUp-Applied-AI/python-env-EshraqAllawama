@@ -11,4 +11,4 @@ df = pd.read_csv(data_path)
 #full data’s information 
 print("Shape: ", df.shape)
 print("head: ", df.head())
-print("describe: ", df.describe())
+print("describe: ",df.describe())

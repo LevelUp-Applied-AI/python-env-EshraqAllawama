@@ -35,4 +35,4 @@ python -m pip install -r requirements-prework.txt
 - We use scripts (.py files) when we want to build software for production.
 Scripts are used to execute code in a clean, structured, and reusable way, especially for developers and deployment environments.
 
-- We use notebooks (Jupyter or Colab) when we want to explore data, test ideas, or communicate results to non-technical people or managers. Notebooks allow us to run code in separate cells, making it easier to experiment and visualize results step by step, unlike scripts.   
+- We use notebooks(Jupyter or Colab) when we want to explore data, test ideas, or communicate results to non-technical people or managers. Notebooks allow us to run code in separate cells, making it easier to experiment and visualize results step by step, unlike scripts.   
