@@ -27,3 +27,12 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+
+
+## When to use each
+
+- We use scripts (.py files) when we want to build software for production.
+Scripts are used to execute code in a clean, structured, and reusable way, especially for developers and deployment environments.
+
+- We use notebooks(Jupyter or Colab) when we want to explore data, test ideas, or communicate results to non-technical people or managers. Notebooks allow us to run code in separate cells, making it easier to experiment and visualize results step by step, unlike scripts.   
